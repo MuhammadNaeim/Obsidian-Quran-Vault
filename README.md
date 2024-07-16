@@ -36,5 +36,5 @@ you can do this by adding '!' before the double linking brackets, and add '^' af
 I used the code specified in the quran-db.ipynb file, you can check it out. Also you can generate the same vault with the code if you have the same csv files. Anyway, I included the vault .zip, you can just download it and you are ready to go.
 
 ## cridits
-+ [Quran Transilation]([hi](https://quranenc.com/ar/browse/english_rwwad/1))
-+ [Quran Ar]([url](https://youtu.be/8a0-2rSa834?si=zxtccsyrm5yNcaHL)), you can get the notion templete from it.
++ Quran Transilation: https://quranenc.com/ar/browse/english_rwwad/1
++ Quran Ar: https://youtu.be/8a0-2rSa834?si=zxtccsyrm5yNcaHL , you can get the notion templete from it if you like taking notes with notion.
