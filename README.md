@@ -11,9 +11,20 @@ Arabic - English obsidian quran vault to study quran and quran journal.
 3. NO PLUGINS NEEDED.
 
 ## The Maneual
-#### Folders Hierarchy
-You have three folders:
+#### 3 folders hirerarchy:
 1. Ayat - آيات القرآن
-  + organized in folders by Surah
-3. Surahs - سور القرآن
-4. Juz - أجزاء القرآن
+2. Surahs - سور القرآن
+3. Juz - أجزاء القرآن
+
+#### 5 Blocks Inside of an Ayah note:
+inside of an Ayah note you will find 5 blocks:
+1. Arabic Ayah Drawing in ottoman font.
+2. Arabic Ayah text.
+3. English Ayah Transilation.
+4. English Ayah Notes
+5. The Juz and Surah which Ayah belongs to, so you don't have to google it.
+![Screenshot_20240716_064907](https://github.com/user-attachments/assets/12778017-1af8-43a3-b933-e3b267ac8534)
+
+#### You can link the whole Ayah note, or you can choose which block to link.
+you can do this by adding '!' before the double linking brackets, and add '^' after ayah name.
+![Screenshot_20240716_064618](https://github.com/user-attachments/assets/5d91bdd1-8ad3-4492-aff2-22f74ed3006f)
