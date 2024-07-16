@@ -17,11 +17,10 @@ Arabic - English obsidian quran vault to study quran and quran journal.
 3. Juz - أجزاء القرآن
 
 #### 5 Blocks Inside of an Ayah note:
-inside of an Ayah note you will find 5 blocks:
 1. Arabic Ayah Drawing in ottoman font.
 2. Arabic Ayah text.
 3. English Ayah Transilation.
-4. English Ayah Notes
+4. English Ayah Notes.
 5. Linked Juz and Surah which Ayah belongs to, so you don't have to google it.
 ![Screenshot_20240716_064907](https://github.com/user-attachments/assets/12778017-1af8-43a3-b933-e3b267ac8534)
 
