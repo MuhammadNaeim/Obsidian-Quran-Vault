@@ -31,5 +31,11 @@ you can do this by adding '!' before the double linking brackets, and add '^' af
 
 #### Here's a practical example of taking Quran notes:
 ![Screenshot_20240716_063852](https://github.com/user-attachments/assets/d2bff386-15f3-423d-92ab-a96e0ea31383)
-![Screenshot_20240716_063852](https://github.com/user-attachments/assets/d30531d9-af68-42b7-a1a2-c05ed84efdc5)
+![Screenshot_20240716_064038](https://github.com/user-attachments/assets/74f2f4c0-2f95-455f-b47a-2cf3323c7df5)
 
+## How I Created It
+I used the code specified in the quran-db.ipynb file, you can check it out. Also you can generate the same vault with the code if you have the same csv files. Anyway, I included the vault .zip, you can just download it and you are ready to go.
+
+## cridits
++ [Quran Transilation]([url](https://quranenc.com/ar/browse/english_rwwad/1))
++ [Quran Ar]([url](https://youtu.be/8a0-2rSa834?si=zxtccsyrm5yNcaHL)), you can get the notion templete from it.
